@@ -1,5 +1,8 @@
 .spacing.heart {
-	
-	
-	
+	background: url(http://www.mspaintadventures.com/images/a6a6_tooth2.gif) no-repeat;
+    height: 20px;
+    width: 12px;
+    -mox-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-left: 12px;
 }
